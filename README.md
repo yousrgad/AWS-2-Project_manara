@@ -1,4 +1,3 @@
-# AWS-2-Project_manara
 AWS Solution Architecture
 A highly available, multi-AZ web application stack using AWS CloudFront, ALBs, EC2 Auto Scaling, NAT gateways, and a Multi-AZ RDS deployment.
 
